@@ -1,7 +1,7 @@
 # Coinbase data visualizer
-This project is useful for visualising data in ways that are not available on coinbase. A main feature that is in my opinion quite useful, is to directly compare all your currencies' rate of change in the same graph, such that you can review which one is doing best, and more! 
+This project is useful for visualizing data in ways that are not available on Coinbase. The main feature that is in my opinion quite useful, is to directly compare all your currencies' rate of change in the same graph, such that you can review which one is doing best, and more! 
 
-You will have to install a couple libraries if you don't have them already;
+You will have to install a couple of libraries if you don't have them already;
 installing cbpro: simply type "pip install cbpro" in cmd,
 installing matplotlib: "pip install matplotlib" in cmd
 installing seaborn: "pip install seaborn" in cmd
